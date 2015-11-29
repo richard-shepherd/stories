@@ -154,9 +154,6 @@ Double agent
 
 Period flavour
 --------------
-- Shut down cooling system
-  - USSC starts to go crazy
-  
 - Can't let USSC fall into Soviet hands
   - Tech 20 years ahead of what they have - still using valves
   - Way of talking about the "hi-tech" nature of 70s tech, 5m cube vs city block
@@ -171,6 +168,29 @@ Period flavour
 
 Thoughts
 --------
+- Could USSC be British?
+  - An adapted Leander class frigate
+  - Secret post-war project, based on Bletchley Park technology
+  - Extra tension when USSC shoots down the US aircraft
+  - Carries Britain's nuclear deterrent
+    - And can defend itself against attack
+  - They fly out in a Nimrod
+    - Or in helicopter from an aircraft carrier?
+
+- If British, the title could be Independent Nuclear Deterrent
+
+- Could Georgia be a descendent of Ada Lovelace?
+  - Or worked with John von Neumann after he left Bletchley
+
+
+
+- Ship's name
+  - It changes its name to "USS Equality"
+  - Previously known as "USS Autonomous"? "USS 
+
+- Shut down cooling system
+  - USSC starts to go crazy
+  
 - US fleet using SLAM missile (Supersonic Low Altitude Missile) against USSC as a last resort
   - ie, Cruise missile carrying nukes
 
