@@ -163,11 +163,49 @@ Period flavour
 - Maybe reference to "Soviet waters" early on
   - USSC is close to the border of USSR territory
   - NO: It has gone inside it!!
+  - Into the Sea of Okhotsk
+    - Through the Kuril Islands
 
 
 
 Thoughts
 --------
+- Action takes place in 1973
+  - Ted Heath is Prime Minister
+  - Nixon is US president
+  - Vietnam war ending: US and USSR just looking for other ways to wind each other up
+  - Nixon visits Chine
+  
+
+- How do Harry's actions affect the plot?
+  - There's a bit of a danger that he and Georgia just try things that fail
+    and they don't affect the outcome at all.
+  - They need to be instrumental in the outcome.
+  - Ending were Russian marines scuttle the boat
+    - They would not have done it without the effect of H & G
+    - So: H & G persuade USSC (or lead it to the idea) that Soviet leaders are corrupt
+      - Or at least that USSC would be better at it
+      - That there should be multiple USSCs, ruling for the benefit of mankind
+      - USSC thinks that Soviet shipyards will want to make more of them
+      - USSC thinks that Soviet leaders will gladly cede power to it
+      - It thinks that UK, US power-structure would not allow this
+
+- Have Harry and Georgia been briefed about USSC?
+  - ie, is its AI a surprise to them?
+  - If it is: Why were they not told?
+  - If it is not: When do I let the readers know?
+    - It seem like cheating to hide it from the readers, when the characters know it.
+  - If they do get a briefing, how do we go straight into the action?
+    - Briefing via flashback / memory?
+
+- Does HMSC not feel loyatly to the Queen?
+  - No.
+
+- HMSC offers to let them go in the ship's helicopter
+  - They can't fly it.
+  - So they take the boat instead.
+
+
 - Could USSC be British?
   - An adapted Leander class frigate
   - Secret post-war project, based on Bletchley Park technology
@@ -183,8 +221,14 @@ Thoughts
   - Or worked with John von Neumann after he left Bletchley
   - Or be the niece of Max Newman
   - Only the seconds woman to be Senior Wranger of mathematics at Cambridge University.
+  - Harry Newman, Georgia Flowers
+    - Both joined up because they were disappointed with their fathers' war record.
+    - Georgia's dad worked with the Post Office, on phones
+    - Harry's dad was a consciencious objector. Just worked as a gardener (he thinks) at some place in Buckinghamshire.
+      - "He was a mathematician - he could have done something useful. Instead he..."
 
-
+- Brits reluctantly call in US Navy.
+  - They are closer.
 
 - Ship's name
   - It changes its name to "USS Equality"
@@ -383,6 +427,10 @@ Harry Donovan
 
 Names
 -----
+Ship is called HMS Buckingham
+- Sounds too much like the palace though?
+
+
 Male first names:
 - Xander
 - Bryant
