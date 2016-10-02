@@ -38,7 +38,7 @@ Dr. Lawrence Oakley - main character
 Sally Oakley - wife of Lawrence
 Dr. Larry Oakley - older version of Lawrence
 Prof. Daniel Wechsler - co-worker and rival of Lawrence
-Sarita Gupta - attractive co-worker of Lawrence
+Sarita Kapoor - attractive co-worker of Lawrence
 
 
 Character details
@@ -57,7 +57,7 @@ Dr. Lawrence Oakley (young)
 
 
 Dr. Lawrence Oakley (old)
-- Age:
+- Age: 53
 
 
 Sally Oakley (young)
@@ -73,7 +73,7 @@ Prof. Daniel Wechsler
 - Job: Professor of Theoretical Physics, University (somewhere in midlands)
 
 
-Sarita Gupta
+Sarita Kapoor
 
 
 Scenes
@@ -92,13 +92,76 @@ Scenes
 
 - SCENE 2
   - Lawrence arrives home and discovers Larry in bed with his wife.
-  - Thinks he is Wechsler at first?
+  - Thinks he is Wechsler at first.
   - Larry punches Lawrence.
+    - Sally: "Stop it, Larry! Lawrence!"
+    - Lawrence looks at him again: realizes it is himself.
   - Lawrence elated (despite Larry having sex with his wife) that time travel is true.
   - Larry says that the time-potential means he cannot stay long in the past, and goes back (to the future).
 
 - SCENE 3
-  - 
+  - Purpose: Sally persuades Lawrence that he should allow Larry to keep coming back
+    and having sex with her. It's in his own interests!
+  - Sally says they need to talk (just after Larry has gone). Lawrence can't take it in, and
+    goes to sleep in the lab.
+  - Next day, pores over the equations. They must be right! But he can't see it.
+  - Comes back home in a foul mood.
+  - Argues with Sally - but she persuades him.
+    - She says that her future self must be a cow. Feels regretful about this. 
+    - Wants to make it up to Larry - who is Lawrence. 
+    - "So you're saying that you are having sex with another man *because* you love me?"
+    - He agrees that Larry can come back.
+
+- SCENE 4
+  - Lawrence changes his mind.
+  - They have arranged for Larry to come back and for Lawrence to be out of the house.
+  - But he comes back and intercepts Larry.
+    - They - plus Sally - talk in the kitchen.
+  - Larry talks about his future wife.
+    - She complains he's always in the pub.
+    - Lawrence: Not really one for pubs.
+  - Lawrence finds out about Wechsler.
+  - Discussion about money etc
+  - Scene ends with Lawrence demoralized and agreeing.
+    - He'll keep out of the house and wait for a phone call to tell him he can come back.
+    - Larry: You could wait in the pub. The Red Lion's pretty good. I know I spent a lot of time there when I was younger.
+
+- SCENE 5
+  - Scene where four Larrys turn up.
+  - A few weeks later. Lawrence is in the pub.
+  - Barman: "Your usual, sir? Nice to get away from the wife for a bit."
+  - Lawrence tinking: Things were fine (tells himself)
+    - Going great with Sally. 
+    - If only Larry was out of the picture.
+  - Gets a call.
+  - Four Larry's.
+  - Sally calls because 4 Larrys outside.
+    - Got to get them inside before anyone notices!
+  - Lawrence can't go back to the pub - too humiliating.
+    - Stays in the living rom, and tries to block out the sounds (with loud TV). Not 100% successfully.
+
+- SCENE 6
+  - Decides to kill Larry
+  - Back in the pub, drinking too much.
+  - This can't go on! Plans to kill Larry.
+  - Goes back home. Gets a knife from the kitchen. Wipes fingerprints from it.
+    - Wouldn't want Sally's to be on it.
+  - Future Sally appears.
+  - All in kicthen: two Sallys, Lawrence and Larry.
+  - Show down.
+    - Older Sally persuades younger Sally that she's not so bad.
+    - That Larry / Lawrence are useless.
+    - Better watch him with that slag Sarita Kapoor from the office.
+      - He's got a thing for her.
+  - Two can play at that game
+    - Misunderstanding from Lawrence.
+  - Women go off.
+  - Lawrence has change of heart - fellow feeling with Larry.
+  - Men go to the pub.
+
+
+
+
 
 
 
@@ -112,6 +175,56 @@ Condensed story
 
 Ideas
 -----
+- Story problem:
+  - We have a "problem" set up early, ie that Larry is having sex with Lawrence's wife.
+  - This is the problem that we want to see solved.
+  - BUT: It doesn't get solved. At least in current version of the story.
+  - Maybe Lawrence in the pub can be thinking about this.
+    - He wants to stop it. 
+    - Or does he?
+    - Things going great with Sally (except that she is f**king Larry).
+      - Could we repeat this. X is fine (except...), Y is great (except...), Z is wonderful (except...)
+  - Maybe: Lawrence thinks that he's got to put a stop to it.
+    - Comes up with a plan.
+      - What would this be?
+      - Could be to kill his older self. Or at least threaten him.
+      - Grown to hate the older Larry.
+        - Putting his selfish desires before his younger self.
+        - Doesn't care that the Larry feels the same. Doesn't identify with him.
+      - Body would go back to the future. 
+      - It would only be his own fingerprints / dna on the knife. The perfect crime!
+      - Suicide, but of himself in 25 years time.
+      - Thinks this in the pub. He's been drinking.
+      - "Are you sure you want another, sir?"
+      - Not suiicide - killing that bastard who was shagging his wife.
+        - Still - not ure he was thinking clearly.
+        - But feels that he is thinking more clearly than he has before.
+        - In a fight, he could kill Larry, but Larry could not kill him.
+
+  
+
+- Lawrence starts to spend more time at work or in the pub.
+  - Thinks this while in the pub?
+  - Things were going great with Sally. It was true that he was spending more time 
+    at work or in the pub these days. But who could blame him, with what was going on?
+
+
+
+
+
+- Larry on Wechsler:
+  - That was twenty years ago. It's no use being bitter. 
+  - Looking down and seemingly talking to himself... You just have to let it go. 
+  - ie, he's not over it at all.
+
+- Lawrence: Time travel - Larry could make money. Could tell him things to make money.
+  - Maybe when he realises he won't be famous / successful.
+  - Larry not interested in money.
+    - Could win on horses, invent technology etc
+    - Says these are not the important things in life.
+    - Lawrence: "So we’re back to shagging my wife again."
+
+
 - He took in the scene: the middle-aged man sittiing on *his* bed with his courderoy trousers
   round his ankles. His wife a small distance apart, in her underwear and wearing hold-up 
   stockings (she never wore them for him!). Guilty looks on their faces.
@@ -243,7 +356,11 @@ Ideas
     - Lawrence looks hopeful.
     - The two Sallys go off together.
 
-
+- How do we find out that Larry taught Sally the thing with the spatula and the oven glove?
+  - It could be infered (rather than being told by Sally or Larry).
+  - Or: We find out (indirectly) because Larry tells Lawrence that the future Sally
+    won't do it any more.
+    - Or: Sally explains this to Lawrence.
 
 - Three cups of tea.
   - Lawrence makes them all a cup of tea for when Larry and Sally have finished.
