@@ -48,28 +48,34 @@ Dr. Lawrence Oakley (young)
 - Age: 28
 - Married: 18 months
 - Appearance: Tall (6'1") 
-              slim (always meant to work out more, but never did it)
+              slim (always meant to work out more, but never did it. OR: does crunches)
               blond hair
               hazel eyes with flecks of green
               slightly weak chin (should he grow a beard?)
 - Job: Post-doctoral research, working for Prof. Wechsler
-              
+- Lives in Byrdden Spinney (Cotswold market town)
+- Works at Tolchester University
 
 
 Dr. Lawrence Oakley (old)
 - Age: 53
+- Appearance: as Lawrence except:
+  - Hair going white
+  - Firm stomach going to seed.
+  - Has grown a beard (fails entirely to hide weak chin)
+ 
 
 
 Sally Oakley (young)
-- Age:
+- Age: 26
 
 
 Sally Oakley (old)
-- Age:
+- Age: 51
 
 
 Prof. Daniel Wechsler
-- Age:
+- Age: 46
 - Job: Professor of Theoretical Physics, University (somewhere in midlands)
 
 
@@ -88,7 +94,7 @@ Scenes
   - Establish him as a physicist working on something time-related.
     - Antagonism with Wechsler.
   - Discuss his sex life. Pretty good - married 18 months.
-    - Mention the "thing with the spatula and oven glove"
+    - Mention the "thing with the spatula and the oven glove"
 
 - SCENE 2
   - Lawrence arrives home and discovers Larry in bed with his wife.
@@ -123,6 +129,7 @@ Scenes
   - Lawrence finds out about Wechsler.
   - Discussion about money etc
   - Scene ends with Lawrence demoralized and agreeing.
+    - Larry: "I'd love to discuss this more, but time's running out!"
     - He'll keep out of the house and wait for a phone call to tell him he can come back.
     - Larry: You could wait in the pub. The Red Lion's pretty good. I know I spent a lot of time there when I was younger.
 
@@ -130,13 +137,12 @@ Scenes
   - Scene where four Larrys turn up.
   - A few weeks later. Lawrence is in the pub.
   - Barman: "Your usual, sir? Nice to get away from the wife for a bit."
-  - Lawrence tinking: Things were fine (tells himself)
+  - Lawrence thinking: Things were fine (tells himself)
     - Going great with Sally. 
     - If only Larry was out of the picture.
-  - Gets a call.
-  - Four Larry's.
   - Sally calls because 4 Larrys outside.
     - Got to get them inside before anyone notices!
+    - Fate, dice etc.
   - Lawrence can't go back to the pub - too humiliating.
     - Stays in the living rom, and tries to block out the sounds (with loud TV). Not 100% successfully.
 
@@ -175,6 +181,52 @@ Condensed story
 
 Ideas
 -----
+- Tolchester
+  - A new university - well, it had been new in the nineteen fifties.  
+  - Established, as far as Lawrence could see, close enough to Oxford to 
+    underline just to what extent it was not Oxford.
+  - Now it was crumbling and generally shagged out, both in its physical structure 
+    and the ideas and morale of the staff.
+
+- Rainbow on way home
+  - Damn Newton! World famous and Prof at 27??? 
+  - Think I did that before, though!
+
+- Larry: "So it's OK for me to keep seeing Sally?"
+  - Lawrence: "Yes, but I'm not 100% happy about it."
+  - Larry: "Don't work old chap. You will be."  
+    - Thumbs up, wink.
+
+- Lawrence
+  - Proud of his abs
+  - Does crunches and sit ups
+  - Sally unimpressed
+  - He knows its the only way not to go to seed later in life
+
+- Wechsler
+  - Hired during a fit of enthusiasm to seed a world-class physics department at
+    Tolchester.
+  - Based on some very promising sounding work in the mid 2010s
+  - Made Prof at age of 38.
+  - Now, six years later all he can contribute is to block the progress of other, brighter minds.
+
+- Works at Tolchester University
+  - Close enough to Oford to bring home just to what extent it was not Oxford
+
+- *Things* ( external things) seem bad to Lawrence as he walks home
+  - In a bad mood
+  - So projecting onto external things.
+  - (also: reason for some description)
+    - Cotswolds??? But prettiness described as glib, cliched, "what an American thinks 
+      England looks like)
+  - Full of insufferable rich people with jobs in the media and god-knew what else
+  - They only live there because of a legacy from Sally's great uncle
+
+- Byrdden Spinney
+  - The best that could be said about it was that it was staggeringly beautiful
+  - Full of insufferable, self-satisfied, London outcast, media types (and god-knew...)
+    with their Agas and their wicker log baskets and their season tickets to London.
+
 - Story problem:
   - We have a "problem" set up early, ie that Larry is having sex with Lawrence's wife.
   - This is the problem that we want to see solved.
