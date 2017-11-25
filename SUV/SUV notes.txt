@@ -20,8 +20,8 @@ Characters
 - The car: Susan (sensible, reassuring middle-aged voice). Hamilton (competent, cultured Scottish voice).
 - Gabrielle Jackson: African American Republican senator for Colorado.
 - Joshua Mendoza: Detective on the Fort Collins (Colorado) PD.
-- Joseph Fleetwood: Senior Ethics Programmer at Plex.
-
+- Joseph Fleetwood: Senior Ethics Programmer at Plex Auto-motive.
+- EMMA: Central ethics AI at Plex Auto-motive.
 
 
 
@@ -34,9 +34,33 @@ Ideas
 
 - Name for the AI
   - JS (somehow)
+    - Judgement Software
     - Josie some people call her
     - Grinds out ethics - a sort of JS Mill. (Joe has told this joke before.)
   - Ethan: ETHical ANalyser
+  - Utility [something] and calculator
+  - URSULA
+    - Utility 
+  - EMMA
+    - Ethical Measurement and Maximization Algorithm
+    - "As the name suggests, Detective Mendoza, Emma is not the hardware you can see but 
+       the software - the algorithm"
+       "She is built into every vehicle."
+       "She?"
+       "I mean 'it', of course. We've just got used to calling it 'her' in the lab."
+       Mendoza could see that despite his gym honed looks, Fleetwood was as much a geek as any
+       other he'd ever met.
+       "If Emma is in the vehicles, why is it also running here?"
+       "The vehicles have limited access to information and limited processing power. I mean, they
+        have way more than even a supercomputer of ten years ago - but nothing to what we have 
+        available here. Emma collates and cross-references data from all our vehicles and can
+        update and deploy refined safety algorithms in real time."
+       "Real time?"
+       "Well - it takes some time. Maybe a few milliseconds. It just means that it's so fast 
+        that you don't notice it's taking any time at all."
+    - Mendoza says EMMA, Fleetwood says Emma.
+      - Mendoza can tell by the way he's saying it that he says it like she's a person.
+
 
 
 - Coder's name is Joseph Fleetwood
@@ -138,7 +162,60 @@ Ideas
     - And that the company has been completely open and helpful
 
 - Need a Google-esque name for the company
-  - "Plex"?
+  - Plex
+  - Plex Auto-motive
+    - Spin off from one of the largest tech companies of the early part of the century
+    - With their typical hubris, they had decided that they could make the whole car factory
+      and supply chain themselves better than the traditional car industry.
+      - They have a foundry and factory
+      - All almost entirely automated
+        - Sold to customers as "100% American Made" - true, as long as no-one gave too much thought to 
+          the fact that that no American worker - aside from a few geeks at their keyboards - was 
+          involved anywhere in the manufacturing process.
+          - Geeks at keyboards: increasingly few of these as AI started coming for their jobs as well.
+            - Mendoza: Served them right
+      - Hubris: but they were right
+  
+- Fight with geek
+  - Geek is gym-trained in Brazialian Jujitsu (or Muay Thai?)
+    - He calls it "Muay Thai". To Mendoza it's Thai boxing.
+    - He's seen some Thai kids, really tough. Grew up with it in the back streets.
+    - Not this guy, though.
+    - Used to sparring with a highly-paid personal trainer who's aim is to flatter his client and not hurt him
+  - Mendoza older, not in the shape he once was, but with 25 years of police experience
+    - Sometimes the best approach was just to kick them in the balls and run away
+    - Or knee him inthe testicales
 
+- Chase through Plex factory
+  - Fully automated
+  - Mendoza not sure how many of the robots are under the influence of the Ethics AI
+  - The AI is in fact tryng to drive Mendoza into a panic but not kill him
+    -  ie, driving him to a state where he will run across the road
+    - BUT: How do we know this???
+       - Maybe Mendoza realizes this (when he sees the state of the traffic lights) just as he is hit.
+       - He sees that the AI has engineered the whole thing (he sees the traffic cameras)
+       - Including knowing that a human-driven car was coming
+         - Middle-aged lady in an old Ford pickup.
+         - Her reflexes and awareness of the traffic around her no match for the autonomous vehicles.
+         - Calm judgement of the autonomous vehicles vs. frozen panic, locked wheels of the human-driven truck.
+
+- Maybe a park the other side of the road
+  - Somewhere with no cars, no technology.
+
+- The fight and flight bit at the end needs continuous *tension*.
+
+- Why is Mendoza running when he gets out of the factory?
+  - a) He needs to get somewhere. (To tell people.)
+  - b) He is being chased. Who by? (Geek? Security guards?)
+  - c) He has taken something from Plex. Some piece of evidence? Something important?
+       - And so is being "legitimately" chased by guards.
+
+- No web-connected devices allowing Plex
+  - They're very concerned about leaking of their IP
+  - Mendoza hands over his phone, his watch, his PD comms unit, his (fitness tracker?)
+  - But: He has an antique dictafone.
+    - Got that for when the technology never fails
+    - Geek: But the technology never fails!
+  - So: He needs to get out with the dictafone recording
 
 
