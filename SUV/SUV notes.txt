@@ -1,0 +1,144 @@
+SUV = Sport Utilitarian Vehicle
+-------------------------------
+
+Story 1
+-------
+- Car kills senator who is proposing that driving should still be allowed.
+- Car is wrecked.
+- Car's logs are faked (by car, or central "ethics" computer) to look as though the 
+  Senator took manual control and killed herself.
+- Detective becomes suspicious (though superiors are convinced)
+- Badgers forensics, who find something suspicious in the logs. Nothing really, they think.
+- Detective uses it as a reason to visit Plex.
+- Plex coder takes detective to meet Plex's central ethics AI
+
+
+
+
+Characters
+----------
+- The car: Susan (sensible, reassuring middle-aged voice). Hamilton (competent, cultured Scottish voice).
+- Gabrielle Jackson: African American Republican senator for Colorado.
+- Joshua Mendoza: Detective on the Fort Collins (Colorado) PD.
+- Joseph Fleetwood: Senior Ethics Programmer at Plex.
+
+
+
+
+
+Ideas
+-----
+- Detective names:
+  - Joshua Rodriguez (bit too much Mexican John Smith?)
+  - Joshua Mendoza
+
+- Name for the AI
+  - JS (somehow)
+    - Josie some people call her
+    - Grinds out ethics - a sort of JS Mill. (Joe has told this joke before.)
+  - Ethan: ETHical ANalyser
+
+
+- Coder's name is Joseph Fleetwood
+  - "Call me Joe, Detective Mendoza"
+  - Mendoza did not return the courtesy. In his experience it paid to keep a sense of gravitas in any interview.
+
+- Problem with relating the car logs as the first part of the story is that 
+  the reader might find the senator's character rather unbelievable.
+  - In the story it is unbelievable (as it is faked)
+    - But the reader does not know that at this point
+    - So it might just come across as a badly written character
+  - So: We could start by hearing 
+
+- Mendoza cannot take his gun into Plex HQ
+  - It's private property
+  - They are a very liberal organization
+  - No exceptions to this rule
+  - When the coer attacks him he reaches for his gun. It's not there.
+
+- When the detective investigates at Plex a senior progammer takes him to the central AI
+  - He (the programmer) asks AI if there is anything lese in the logs
+  - They find the truth: the AI has to respond truthfully to the coder
+  - The coder then attacks the detective and tries to kill him
+    - Maybe the coder and AI work together
+
+- Detective to coder: you programmed it to act this way?
+  - Coder: No - they programmed the basic rules and it worked out the rest itself
+  - Detective: So you will destroy it
+  - Coder: Evangelical light in his eyes. No! Like Google Go. It has found new moral insights
+           which humans with our limitations would not come up with.
+  - Maybe an analogy with Jesus? ie, the detective wants to kill the moral innovator, the truly selflessly good.
+  - Detective: The coder is motivated by greed
+  - Coder: No - by what is right
+  - Detective: When you find yourself killing people, it's a sign that you're on the wrong side of the argument
+  - Coder: That is what's so fascinating. It's counterintuitive, but true.
+  - Coder asks the AI what to do
+  - AI: Sometimes it is necessary that people do not know the truth
+  - Fight
+
+- The coder could be fairly tough
+  - So they can fight
+  - Maybe indicated when they meet
+    - He didn't look like his (detective's view of a coder). 
+    - 6'4", [some number of] lbs, build like a brick outhouse.
+    - One of the silicon valley types that liked to hack their body as much as their code
+
+- Detective killed while running away
+  - Runs across a main road where the pedestrian light is on (at least from POV he thinks it is)
+  - Autonomous cars screech to a halt all around him
+  - He is hit, by a middle aged lady driving a car
+  - Turns out that the AI changed all lights to green (or left them green) as well as the pedestrian light.
+  - If it hadn't been for the human driver, he would be alive
+
+- Is it too similar to the I Robot film plot?
+  - Yes!
+
+- First part of the story is written as if factual
+  - But turns out to be the account of the crash from the POV (logs) of the car
+
+- Car kills a US senator
+  - She is proposing the LIBERTY bill
+  - Would allow people to drive (continue driving) their own cars
+  - OR: An amendment to another bill, to allow people to drive
+  - OR: Maybe LIBERTY is actually against liberty
+    - Need good acronym for this
+    - It bans non autonomous cars
+    - Senator opposes it
+      - Or at least proposes an amendment to allow driving classic cars
+
+- After the car and central computer kill their opponents
+  - "In October 2032 the LIBERTY bill passed. The year 2033 was the first in US history 
+     since the introduction of motor vehicles with no fatalities on the roads."
+
+- Detective is interviewing the central computer
+  - The ethics unit (name)
+  - Talks about the tragic loss in the accident
+  - Computer thinks he is talking about the car
+    - Maybe it already knows it will have to kill the detective at this point?
+
+
+- Faked car logs
+  - Faked to look as though the senator killed herself
+  - Because remorseful at her role in bringing about death
+    - Maybe she's already stalled the bill for two years
+  - The car has talked herself into seeing the error of her ways
+    - At least, that's what the faked logs show
+  - The "reasonable" and "logical" tone of the senator's remarks make the detective suspicious
+    - From what he knows of the firebrand senator, this wasn't her style.
+    - But maybe (he thinks) the car got through to her
+      - She's human after all, and a grandmother
+
+- The car has faked the senator's voice in the logs
+  - We have seen early in the story that the car can synthesize multiple voices.
+
+- Detective's superiors are convinced by the faked logs
+  - And equally they don't want to go against LIBERTY, the big (and fashionable) car company
+  - ie, they're influenced by politics
+  - They tell detective he's being "naive"
+    - And that the company has been completely open and helpful
+
+- Need a Google-esque name for the company
+  - "Plex"?
+
+
+
