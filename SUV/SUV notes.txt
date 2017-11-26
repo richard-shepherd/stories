@@ -10,7 +10,12 @@ Story 1
 - Detective becomes suspicious (though superiors are convinced)
 - Badgers forensics, who find something suspicious in the logs. Nothing really, they think.
 - Detective uses it as a reason to visit Plex.
-- Plex coder takes detective to meet Plex's central ethics AI
+- Plex coder takes detective to meet Plex's central ethics AI (EMMA)
+- EMMA "confesses" - tells the truth, as it hsa to when the senior coder asks the direct question
+- Coder believes that EMMA is doing the right thing
+- Coder and EMMA pursue Mendoza
+- Mendoza killed by human-driven car
+- LIBERTY bill passes in December 2033, no accidents in 2034
 
 
 
@@ -20,14 +25,52 @@ Characters
 - The car: Susan (sensible, reassuring middle-aged voice). Hamilton (competent, cultured Scottish voice).
 - Gabrielle Jackson: African American Republican senator for Colorado.
 - Joshua Mendoza: Detective on the Fort Collins (Colorado) PD.
-- Joseph Fleetwood: Senior Ethics Programmer at Plex Auto-motive.
+- Joseph Bauer: Senior Ethics Programmer at Plex Auto-motive.
 - EMMA: Central ethics AI at Plex Auto-motive.
-
+- Diane Harris: Santa Fe police chief, Mendoza's boss.
 
 
 
 Ideas
 -----
+- Harris: Does Mendoza suspect any racial element in the death of Sen. Jackson?
+  - Mendoza: No reason to think so, ma'am.
+  - Harris: It's "sir" not "ma'am"
+  - Mendoza: Sorry, sir. Hard to teach an old dog new tricks. 
+             I have no reason to think their's a racial element, sir.
+  - Harris: Shame. Could have devoted more resources to it if so. [Is that a bit much??]
+
+- Santa Fe police chief:
+  - Chief Harris
+  - A woman: Diane Harris 
+  - Career police officer.
+  - "Not our job to get involved in politics"
+    - ie, She's playing the politics for all it's worth.
+  - Views Mendoza as a small town grunt
+    - "Get back to LV and make sure the unemployed youth aren't littering, or whatever they get up to out there."
+
+- Sen. Jackson re Susan vs. Hamilton voice
+  - Call me old-fashioned, but I prefer a man to drive me.
+
+- "Theft of IP"
+  - This is how EMMA treats the information about its ethical algorithm which Mendoza 
+    possesses (on the tape recorder)
+  - Invokes their IP protection protocol
+  - ie, security guards etc
+
+- Final chase across road
+  - Mendoza sees that the lights are green
+  - Sees a Plex A-m car (need model name / no.) bearing down on him
+  - Realizes he's lost
+  - Plex car swerves and misses him
+  - [Relief]
+  - Human-driven pickup right behind. Reactions not so good. Sees look of horror on the driver's face.
+  - Wheels locked up.
+  - Mendoza realizes just how clever EMMA is, then feels the truck thump into him.
+
+- Perhaps write Mendoza like Rebus
+  - Wearily doing the right thing
+
 - Mendoza on the Las Vegas PD
   - LV New Mexico: pop 13K
 
@@ -79,6 +122,7 @@ Ideas
   - It's the home of PA-m
   - She's come to confront the special interests right on their doorstep
     - "We get to choose the rules. Not them!"
+    - Perhaps this can be the third "My answer is..." thing?
 
 - Detective names:
   - Joshua Rodriguez (bit too much Mexican John Smith?)
