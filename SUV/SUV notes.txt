@@ -31,8 +31,58 @@ Characters
 
 
 
+Story sections
+--------------
+- 1: Sen. Jackson is giving a speech in Las Vegas NM
+     - Mendoza is on duty
+     - We get a feel for her fiery character
+     - Some discussion about LV and Plex Auto-motive
+     
+     - Key outputs:
+       - Introduction to Mendoza: Rebus-like character
+       - Feeling of Sen. Jackson's strong character
+       - Feeling that Plex A-m is slightly sinister (or at least facelessly corporate)
+       - Punchline: She's dead - we want to know more.
+
+- 2: Mendoza visits the crash site
+     - 
+
+
+
 Ideas
 -----
+- Plex A-m in LV
+  - Poopulation of LV had doubled from 15K to 30K
+  - Not as many manufacturing jobs as promised
+  - But plenty of the lower-life workers in both the formal and less informal service economies
+    needed by the executives and geeks
+  - Kept Mendoza in a job
+
+- Mendoza had voted for Sen. Jackson
+  - That she was black shouldn't really have made any difference
+  - Why were "minorities" all supposed to vote the same way anyway?
+  - Mendoza doesn't feel any particular affinity with members of his own tribe
+  - Why should he?
+  - As far as he was concerned he was in a minority of one
+  - That said, the fact that Sen. Jackson was black had made a difference
+    - It made it somehow acceptable to vote Republican
+    - Which he guessed he'd always wanted to do
+    - Too political?
+
+- Mendoza is on duty at the rally
+  - Only police presence
+    - He could call for backup if needed
+    - Though it would take an hour to arrive from Santa Fe
+    - He didn't expect to need it though
+  - Sen. Jackson's rallies had attracted protesters in the past 
+    but not any more since the anti-racist incident
+  - They left her alone after that
+
+- Ma'am vs. Sir
+  - Mendoza had got the memo, and had promptly filed it in the spam folder.
+  - "Sorry,'sir'"
+  - Harris: "Don't think I can't hear the scare quotes, Mendoza."
+
 - What model is the car?
   - Plex Auto-motive Horizon
   - Plex Auto-motice Model H
@@ -45,6 +95,12 @@ Ideas
   - Plex Auto-motive Model H xDrive
   - Have a year number (like Americans seem to): A 2033 Plex Auot-motive Model H
     - All the latest technology: This, that, AI, the other
+
+- Some tension with Chief Harris
+  - He wants to pursue the case
+  - Harris: "You were always determined not to progress with your career, Joshua."
+  - Mendoza: "At least there's not much further down to go."
+  - Harris: "I wouldn't be so sure about that."
 
 - Bauer: This is EMMA
   - Mendoza: "A female artificial intelligence?" He thought of making a joke [smart alec remark] [remark]
