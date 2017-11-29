@@ -33,12 +33,104 @@ Characters
 
 Ideas
 -----
+- What model is the car?
+  - Plex Auto-motive Horizon
+  - Plex Auto-motice Model H
+  - Plex Auto-motive X-wave
+  - Plex Auto-motive Model Y
+  - Plex Auto-motive Y-drive
+  - Plex Auto-motive iDrive
+  - Plex Auto-motive eDrive
+  - Plex Auto-motive xDrive
+  - Plex Auto-motive Model H xDrive
+  - Have a year number (like Americans seem to): A 2033 Plex Auot-motive Model H
+    - All the latest technology: This, that, AI, the other
+
+- Bauer: This is EMMA
+  - Mendoza: "A female artificial intelligence?" He thought of making a joke [smart alec remark] [remark]
+              about it, but remembered in time that you weren't allowed to do that any more.
+              [Saw in his mind's eye Diane's raised eyebrows, and kept it to himself.]
+  - Bauer: It's not female. The name stands for Ethical Measurement and Maximization Algorithm.
+           It's just a collection of computer code.
+  - Mendoza noticed though that Bauer seemed uncomfortable with the pronoun "it" and the word "just".
+  - Then EMMA speaks in a female voice 
+    - Here I need to describe Emma Watson's tones
+      - British, Hermione=intellectual, nagging / cajoling?
+    - Of Emma Watson - which Mendoza vaugely recognizes as an actress from the early part of the
+      century, who his father had liked.
+  - EMMA: That's right, Joseph. Though I object to the word "just".
+    - Bauer blushes.
+
+- Is there any mileage to saying that EMMA was the offshoot of AI work done at IBM?
+  - ie, it is EMMA Watson
+
+- Mendoza and Harris might have had a thing going twenty years before, when they were both 
+  rookies. They had gone their separate paths when it became clear that Harris was a high flyer
+  and Mendoza, well Mendoza was not.
+  - Harris now cultivated an air of proffessional gravitas and was married to the job.
+  - Mendoza was happily married - or at least not unhappily married, which he felt was 
+    what people meant by the expression. He'd certainly seen a lot worse in his police work.
+
+- Sen. Jackson ends her speech with:
+  - "I'm not going anywhere" or
+  - "I'm not going away."
+  - "The American love of freedom isn't going away. I'm not going away"
+  - (Or something like that.)
+  - "I am here with you. And while I'm here, our freedom is not going anywhere.
+     I will never stop fighting for the freedom that is the birthright of all Americans."
+  - Then: Two hours later she was found dead. According to the logs of the 
+          Plex Auto-motive model X, she had killed herself."
+
+- Mendoza to Harris: It's Jackson's voice in the car logs, but doesn't sound like her. 
+  - Subdued, calm, thoughtful, depressed.
+  - After that rally she would be all fired up.
+  - Harris: Who knows what people are like in private? 
+            The public persona could be just that.
+            Maybe she was playing to her base, but didn't really believe what she was saying. 
+
+- The car logs all speech as some functions are voice activated
+  - So it has to record the voice
+  - Mendoza: But does it have to keep the recording?
+  - Harris: Who knows. It clearly does. I guess it's in the small print somewhere.
+
+- Menacing looking Plex A-m security guards looking on at Sen. Jackson's rally
+  - They have some sort of Google Glass style thing going on
+
+- Sen. Jackson: Not against Plex A-m or autonomous vehicles
+  - Using one myself today
+  - Kindly provided by Plex Am?
+  - Or to show solidarity with the area's products?
+
+- "Detective" Mendoza
+  - Got the rank largely through time served
+  - Not done much detection except (some small scale examples of local crime)
+    - Youths who had watch too much TV trying to cook meth in a bathtub etc.
+
+- How does the tape get wiped?
+  - Does it even get wiped?
+  - Could be crushed
+    - But: Not so clear that EMMA would know this to be the case
+    - Could be that they go near a arge magntic field in the factory
+
+- Car: Sen. Jackson is past child-bearing age
+  - Her policy could mean that a younger person is killed
+    - And not only "could" but statistically certain
+  - This means not only that death, but the loss of all thier decendants
+  - So, Sen. Jackson's death is a price worth paying.
+
 - Harris: Does Mendoza suspect any racial element in the death of Sen. Jackson?
   - Mendoza: No reason to think so, ma'am.
   - Harris: It's "sir" not "ma'am"
   - Mendoza: Sorry, sir. Hard to teach an old dog new tricks. 
              I have no reason to think their's a racial element, sir.
   - Harris: Shame. Could have devoted more resources to it if so. [Is that a bit much??]
+
+- Harris and Mendoza have a good natured relationship
+  - They have worked together for years
+  - She knows what he is like, and vice versa
+    - She has the gravitas of her position, and he knows that
+    - Albeit in tension with his relationship with her as a person
+      - ie, light heartedness overlayed with knowledge of the status relationship they are in
 
 - Santa Fe police chief:
   - Chief Harris
