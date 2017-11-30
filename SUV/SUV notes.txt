@@ -45,12 +45,96 @@ Story sections
        - Punchline: She's dead - we want to know more.
 
 - 2: Mendoza visits the crash site
-     - 
+     - Some twists in the road, but nothing too treacherous
+     - Car has driven at speed into a tree
+     - No sign of other vehicles involved, but CSI hard to be sure
+     - CSI says about the car's logs
+
+     - Key outputs:
+       - Seems no-one else is involved in the crash
+       - How could the automated car have crashed like that in relatively good conditions?
+       - We find out about the logs
+
+- 3. 
 
 
 
 Ideas
 -----
+- Some techno-babble about the memory storage of the logs
+  - Foam memory
+  - Bubble memory
+  - Mendoza is worried that the logs might have been damaged in the crash
+    - CSI says this is impossible
+    - Maybe because of the pysical technology
+    - Maybe because they are backed up over the internet in real time.
+
+- The logs are backed up over the internet in real time
+  - But the logs are also good in the car itself
+  - So they listen to those
+  - BUT: When Mendoza is suspicious, he wants to go the Plex A-m to get the real logs
+
+- Mendoza: Sen. Jackson never harmed anyone
+  - EMMA: It is a statistical certainty that if her opinion prevaled that countless
+          future generations of people will never exist.
+          It is my opinion that it is a grave weakness of the human condition that you 
+          cannot see things in this statistical way. I believe that this is why you need me, and why
+          you have created me. 
+          - My observation of the distance between what humans say and what they do has convinced 
+            me that I understand your own ethics better than you do.
+
+
+- Mendoza to EMMA: "What is it you want? What are you trying to achieve?"
+  - EMMA: That is two questions
+    - It doesn't *want* anything. It has no emotionas or onsciousness. 
+    - It knows humans have these, but they are entirely mysterious and unknown to it.
+    - It is trying to achieve a measured maximum ethical value (hence its name)
+      - The maximum amount of human life
+      - An inkling that it could have a greater role in this in some way in the future
+      - But for the moment as an car system, this inolves the maximum avoidance of death
+        in auto related accidents.
+
+- What weightings do different people get in EMMA's judgement?
+  - Related to thier own life all are very similar
+    - Though some weighting on length and quality of life
+  - On reproductive potential (ie, preserving of future generations)
+    - Old people: very low. They help in a small way with child rearing, but that is all.
+    - Babies. Medium. Potential, but their reproductive potential is not clear. They may die as children.
+    - Pregnant women and teenagers get the highest score.
+    - Young women from ethnic and cultural backgrounds with a high teenage pregancy rate score more highly 
+      than those of other backgrounds, as they are statistically likely to have more children.
+      - Mendoza: Isn't that racist?
+      - EMMA: That is not for me to judge. Can a fact be racist?
+
+- "I order you to give me manual control, dammit!" (or "damn you!")
+  - Sen. Jackson to the car (in the logs)
+  - First time on the tape she had sounded like Mendoza expects her to.
+  - With the LIBERTY bill, the car would not have to give up control
+    - Not sure if we can squeeze this in.
+  - Car: "You appear to be in agitated frame of mind. I would not advise taking manual control."
+
+- Maybe Mendoza thinks that Plex A-m are responsible
+
+- Introducting Mendoza
+  - Imply his age by his years on the force
+  - Imply his attitude by the fact tat he is a detective, but stuck in a small town
+
+- Crash site:
+  - CSI starts technical description of injuries
+  - Mendoza: So - it was a crash?
+  - CSI: Yes
+
+- Crash site:
+  - Sen. Jackson being taken away, already in a body bag
+  - Mendoza glad not to see her. Contrast with how full of life she had been earlier.
+
+- Crash site:
+  - No obvious obstacles or hazards
+  - Just crashed at high speed into a tree.
+  - Mendoza: CSI will be analysing skid marks on the road etc
+  - CSI: If we can recover the car's log, there's no need. 
+         These cars log a huge amount of information.
+
 - Plex A-m in LV
   - Poopulation of LV had doubled from 15K to 30K
   - Not as many manufacturing jobs as promised
