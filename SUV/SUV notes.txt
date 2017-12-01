@@ -64,15 +64,38 @@ Story sections
        - Mendoza learns that there is an online backup of the logs
 
 - 4. Mendoza discusses the case with Harris
+     - Some stuff about their relationship / past history
+     - Mendoza says he's uneasy: convenient for Plex A-m that Jackson is dead.
+     - Harris not convinced - or not letting herself be convinced
+       - Seems cut and dried. If there are any further developments they will be handled
+         at State or Federal level. Nothing more for you to do, Mendoza.
 
      - Key outputs
        - Harris tells him to drop the case
        - Pressure (on Mendoza to drop the case): ordered; political; economic
 
+- 5. 
+
 
 
 Ideas
 -----
+- Bauer: This is the heart of the car: EMMA
+  - It's not the engine that the heart of the car any more, but the software
+
+- Bauer would also like EMMA to be the heart of the company as well
+  - They need to trust the AI more
+  - Onbviosuly some internal politics going on, Mendoza infers
+
+- Bauer: Ethics, openness, honesty are core to Plex A-m
+  - "Wouldn't you agree, Emma?"
+  - EMMA: Not entirely, Joseph. People value privacy. For example, a man may not want his wife
+          to know where he has been driving to, despite that being stored in our logs. Full
+          openness and honesty could be harmful in a case like this.
+          - Bauer averted his gaze. Mendoza wonders whether that was just a theoretical example.
+
+- A Mendoza picture: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/008/1db/01002a6.jpg
+
 - Joseph Bauer's job title
   - Senior Ethics Programmer
   - Senior Ehics Technician
