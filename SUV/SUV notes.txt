@@ -35,7 +35,7 @@ Story sections
 --------------
 - 1: Sen. Jackson is giving a speech in Las Vegas NM
      - Mendoza is on duty
-     - We get a feel for her fiery character
+     - We get a feel for Jackson's fiery and determined character
      - Some discussion about LV and Plex Auto-motive
      
      - Key outputs:
@@ -55,12 +55,66 @@ Story sections
        - How could the automated car have crashed like that in relatively good conditions?
        - We find out about the logs
 
-- 3. 
+- 3. Mendoza listens the logs
+     - The car persuades Sen. Jackson that what she is doing is wrong
+     - Jackson is apparently convinced, and ridden with guilt and kills herself.
+
+     - Key outputs:
+       - Sen. Jackson sounds too "rational" and covinced by the car.
+       - Mendoza learns that there is an online backup of the logs
+
+- 4. Mendoza discusses the case with Harris
+
+     - Key outputs
+       - Harris tells him to drop the case
+       - Pressure (on Mendoza to drop the case): ordered; political; economic
 
 
 
 Ideas
 -----
+- Joseph Bauer's job title
+  - Senior Ethics Programmer
+  - Senior Ehics Technician
+  - Some odd sounding combination of this??
+
+- Mendoza half expects a robot receptionist
+  - Pleasantly surprised to see it was a local girl (young woman - sorry, Diane)
+    Julianne Roberts (known locally as Bobby), a recent winner of the Miss Las Vegas Pageant
+    in the cis-female category.
+  - He guessed that even for progressive companies like Plex A-m, some things never changed.
+
+- Receptionist: "Our Senior Ethics Technician will be with you shortly."
+  - Mendoza: Sounded like they were throwing someone important his way - though you
+           could never really tell with job titles.
+  - Probably trying to either butter him up with some smooth-talking senior executive, or blind
+    him with science with some geek.
+
+
+- Mendoza visits Plex A-m
+  - Knows the security guard on the gate. (Former cop?)
+  - "Hiya, Josh"
+  - "Howdee, Clint" (for some reason they had occasionally acted like 
+                     cowboys when they were on the force, and the habit stuck)
+  - "Here to investigate the Jackson case?"
+  - "Just popping in for a chat."
+     - He knew that Clint (?) wouldn't be taken in by this, but he opened the gate anyway
+       and let Mendoza's battered 8 year-old Ford in.
+
+- Mendoza's car
+  - "Heap" etc
+  - Eight year-old, 2025 Ford Whiplash - one of the last car's they'd ever made.
+  - Spares were getting hard to find.
+
+- Plex A-m's parking lot
+  - Like a sales forecourt
+  - Nearly every car was - or at least seemed to be - a new Plex A-m model.
+  - Mendoza guessed there must be a generous employee discount
+    - Or lots of corporate pressure
+  - The occasional Tesla or (Chinese electric car)
+    - Driven, Mendoza guessed, by Plex executives with a rebellious streak and who
+      seemed to feel that their position was secure enough to get away with it.
+
 - Some techno-babble about the memory storage of the logs
   - Foam memory
   - Bubble memory
