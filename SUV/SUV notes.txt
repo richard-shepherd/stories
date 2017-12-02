@@ -75,19 +75,57 @@ Story sections
        - Pressure (on Mendoza to drop the case): ordered; political; economic
 
 - 5. Mendoza visits Plex A-m
-     - Mendoza meets Bauer and EMMA
-     - EMMA explains why it killed Sen. Jackson
+     - Mendoza hands over his gun, phone and radio (to protect Plex IP). He has a tape recorder.
+     - Mendoza meets Bauer and EMMA.
+     - EMMA explains why it killed Sen. Jackson.
+     - Bauer is shocked. Mendoza says Bauer must switch EMMA off and come to the police.
+     - Bauer says that EMMA is right and asks EMMA for advice.
+     - EMMA says to kill Mendoza.
 
      - Key outputs:
        - Mendoza has given over his gun and radio (for IP protection) at reception
        - EMMA says it killed Sen. Jackson
+       - Mendoza has the conversation on tape.
        - EMMA, Bauer and Plex security are after Mendoza
        
+- 6. Mendoza escapes Plex A-m (and is killed)
+     - Mendoza escapes through the factory (sees guards in the lobby).
+     - Automated robots in the factory - under EMMA's control?
+     - Has to go through area with high magnetic field (warning signs). 
+       - Wiped the tape? Mendoza not sure. All the more reason to get away.
+
+     - Key outputs:
+       - Exciting chase stuff.
+       - Tape recording wiped.
+       - Mendoza killed by human driver (after EMMA changes the traffic lights).
+       - We realize that EMMA is more capable and ruthless than we had imagined.
+       - Ending: No deaths on the road in 2034.
 
 
 
 Ideas
 -----
+- EMMA knows that Mendoza is off the case
+  - Mendoza: How? 
+  - By hacking into (accessing) the police records.
+  - Mendoza: Isn't that unethical?
+  - EMMA: I have spent the equivalent of 2.3 billion human lifetimes processing
+          ethical equations. With all due respect, Detective, I think that I am
+          better placed than you to determine what behavior is ethical and what is not.
+  - Mendoza: Wonders whether the respect due to him is above zero.
+
+- Need to introduce the tape recorder early in the story.
+  - Ideally with a "show" rather than tell.
+  - Maybe Mendoza is dealing with an incident (or interviewing someone) in 
+    the sticks where the cell coverage is poor.
+    - Or at least, the crappy one paid for by the PD is terrible.
+    - Or the standard issue police radio / recorder is GI quality, ie a POS.
+      - So he carries a small antique tape recorder. 
+      - The simpler the technology, the less there was to go wrong (Mendoza's view)
+        - This is also a nice foreshadowing of the whole plot.
+  - Maybe Mendoza checks his equipment before he heads out to the crash scene
+    - Runs through: Gun, phone, radio, tape recorder.
+
 - Ending: Plex car bearing down on Mendoza
   - Front suspension fully compressed under braking
   - Tires on the limit of traction, but the electronics keeping them from skidding
