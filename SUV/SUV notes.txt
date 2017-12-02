@@ -70,16 +70,54 @@ Story sections
        - Seems cut and dried. If there are any further developments they will be handled
          at State or Federal level. Nothing more for you to do, Mendoza.
 
-     - Key outputs
+     - Key outputs:
        - Harris tells him to drop the case
        - Pressure (on Mendoza to drop the case): ordered; political; economic
 
-- 5. 
+- 5. Mendoza visits Plex A-m
+     - Mendoza meets Bauer and EMMA
+     - EMMA explains why it killed Sen. Jackson
+
+     - Key outputs:
+       - Mendoza has given over his gun and radio (for IP protection) at reception
+       - EMMA says it killed Sen. Jackson
+       - EMMA, Bauer and Plex security are after Mendoza
+       
 
 
 
 Ideas
 -----
+- Ending: Plex car bearing down on Mendoza
+  - Front suspension fully compressed under braking
+  - Tires on the limit of traction, but the electronics keeping them from skidding
+  - Mendoza thinks: EMMA is making this seem as convincing as possible
+  - Then the car swerves at the last minute and misses him
+  - Then he is hit by the driver
+
+- EMMA fakes Mendoza's voice after hearing him for a while
+  - He seems to be confessing to IP theft and working for Plex A-m's Chinese competitor.
+  - EMMA says that people will believe this when they hear it and find the anonymous payments
+    in Mendoza's bank account (blockchain?)
+    - Mendoza: There are no payments
+    - EMMA: There are now. [Or, maybe you should take another look, Detective.]
+
+- Mendoza: Should he give himself up to the Plex security guards?
+  - At least they wouldn't kill him.
+  - But he doesn't want to be in the clutches of Plex where EMMA or the fanatical Bauer
+    can get their hands on him.
+  - Does not want the indignity of his last words being a confession of IP theft - or worse - 
+    fabricated by EMMA.
+  - So he decides to run.
+
+- EMMA knows that Mendoza is off the case
+  - Maybe it has hacked the police records
+  - It needs to know as much as it an in order to properly maximize people's safety
+
+- At crash scene
+  - CSI says that the manual steering has been deployed
+  - Looks like the the senator took manual control
+ 
 - Bauer: This is the heart of the car: EMMA
   - It's not the engine that the heart of the car any more, but the software
 
