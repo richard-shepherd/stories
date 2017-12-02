@@ -105,6 +105,20 @@ Story sections
 
 Ideas
 -----
+- What does LIBERTY stand for?
+  - RT(Y) = Road TechnologY
+  - E = Enhanced
+  - I = Improved, Improvements, Improvement
+  - B = Bill
+  - L, I = Names of bill's proposers
+    - Lewis, Lynch, Lowe
+    - Ingram
+  - So: Lowe, Ingram Bill for Enhanced Road TechnologY
+  - Jackson: I have the greatest respect for Congressmen Lowe and Ingram, but this bill is an abomination.
+
+- Or bill could be called the SAFETY bill
+  - S = Security, Secure
+
 - EMMA knows that Mendoza is off the case
   - Mendoza: How? 
   - By hacking into (accessing) the police records.
