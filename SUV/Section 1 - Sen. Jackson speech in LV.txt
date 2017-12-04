@@ -1,0 +1,158 @@
+- 1: Sen. Jackson is giving a speech in Las Vegas NM
+     - Mendoza is on duty
+     - We get a feel for Jackson's fiery and determined character
+     - Some discussion about LV and Plex Auto-motive
+     
+     - Key outputs:
+       - Introduction to Mendoza: Rebus-like character
+       - Feeling of Sen. Jackson's strong character
+       - Feeling that Plex A-m is slightly sinister (or at least facelessly corporate)
+       - Punchline: She's dead - we want to know more.
+
+Phrases
+-------
+- The population of Las Vegas, New Mexico, had doubled to just over thirty thousand since the previous census, 
+  ever since Plex Auto-motive had established their global HQ in the town. Detective Joshua Mendoza guessed that   around a quarter of them had turned out to hear Senator Gabrielle Jackson
+  speak. There wasn't much else to do in the area, and Mendoza (guessed) that this counted as an exciting
+  event to the local hicks. Who was he kidding with this cynical bullshit? He was LV born and raised himself, 
+  and even though he was at the rally on duty, he was as interested as anyone in hearing what the Senator had to say.
+
+
+
+Ideas
+-----
+- Introducting Mendoza
+  - Imply his age by his years on the force
+  - Imply his attitude by the fact that he is a detective, but stuck in a small town
+
+
+- Plex A-m in LV
+  - Population of LV had doubled from 15K to 30K
+  - Not as many manufacturing jobs as promised
+  - But plenty of the lower-life workers in both the formal and less informal service economies
+    needed by the executives and geeks
+  - Kept Mendoza in a job, so he guessed he couldn't complain
+
+
+- Mendoza had voted for Sen. Jackson
+  - That she was black shouldn't really have made any difference
+  - Why were "minorities" all supposed to vote the same way anyway?
+  - Mendoza doesn't feel any particular affinity with members of his own tribe
+  - Why should he?
+  - As far as he was concerned he was in a minority of one
+  - That said, the fact that Sen. Jackson was black had made a difference
+    - It made it somehow acceptable to vote Republican
+    - Which he guessed he'd always wanted to do
+    - Too political?
+
+
+- Mendoza is on duty at the rally
+  - Only police presence
+    - He could call for backup if needed
+    - Though it would take an hour to arrive from Santa Fe
+    - He didn't expect to need it though
+  - Sen. Jackson's rallies had attracted protesters in the past 
+    but not any more since the anti-racist incident
+  - They left her alone after that
+
+
+- Sen. Jackson ends her speech with:
+  - "I'm not going anywhere" or
+  - "I'm not going away."
+  - "The American love of freedom isn't going away. I'm not going away"
+  - (Or something like that.)
+  - "I am here with you. And while I'm here, our freedom is not going anywhere.
+     I will never stop fighting for the freedom that is the birthright of all Americans."
+  - Then: Two hours later she was found dead. According to the logs of the 
+          Plex Auto-motive model X, she had killed herself."
+
+
+- Menacing looking Plex A-m security guards looking on at Sen. Jackson's rally
+  - They have some sort of Google Glass style thing going on
+
+
+- Sen. Jackson: Not against Plex A-m or autonomous vehicles
+  - Using one myself today
+  - Kindly provided by Plex Am?
+  - Or to show solidarity with the area's products?
+
+
+- "Detective" Mendoza
+  - Got the rank largely through time served
+  - Not done much detection except (some small scale examples of local crime)
+    - Youths who had watch too much TV trying to cook meth in a bathtub etc.
+
+
+- Perhaps write Mendoza like Rebus
+  - Wearily doing the right thing
+
+
+- Mendoza on the Las Vegas PD
+  - LV New Mexico: pop 13K
+
+
+- Sen. Jackson famous for controntation with activists
+  - She is a Republican, and was accused of being an Uncle Tom
+  - Activists protesting a rally of hers
+  - She does not apologize or hide away
+  - Goes up to a young man - one of the (admittedly few) white protestors in the crowd
+    - Carrying a "No Platform for Bigotry" placard
+  - "You call yourself an anti-racist activist - and you're telling me, a black woman, what 
+     I'm allowed to think and what I'm allowed to say?"
+  - Maybe the week before her election to the Senate.
+  - Went viral
+  - Some people suspected that she had staged the event herself.
+  - Mendoza himself had been impressed by this and had voted for her.
+  - For the story: the point is that she is outspoken
+
+
+- She is giving a speech in Las Vegas (NM)
+  - My opponents ask me: Why don't we follow the example of the so-called 'enlightened' and 
+     'progressive' European nations? [or some SF name for the future EU?]
+     They have traded their freedom for a bit more security, a bit more safety, a bit more
+     comfort. My answer is that they did not even consider it a trade. They lost the concept 
+     of the value of freedom a long time ago. My answer is that we are not Europeans. We are Americans 
+     and we do *not* give away our freedom at any price!"
+     - Need a third "My answer is..." 
+  - Mendoza is policing the event
+    - Finds himself cheering along with the crowd.
+
+
+- Maybe Plex Auto-motive comes under the LV jurisdiction?
+  - Drawing on workers from Santa Fe and Albuquerque
+  - But in fact in San Miguel County, and under the LV jurisdiction in particular
+  - It's never been any problem for Mendoza
+    - Apart from local people being priced out of the housing market. 
+      - But overall more gains than losses, Mendoza thinks.
+      - And the company played the game of Corporate Social Responsibility well enough
+        to deflect the majority of criticism, especially with the bigwigs in Santa Fe Town Hall
+        whose pet projects were well funded.
+    - Maybe he's being unfair (he thinks)
+      - Staff are well behaved, model citizens
+      - Employment for the area (though less than might be imagined as PA-m uses so much automation).
+        - If not employment, then at least taxes, to compensate.
+        - It's the way the world was going, Mendoza reflects.
+
+
+- So that's why Sen. Jackson is in LV
+  - It's the home of PA-m
+  - She's come to confront the special interests right on their doorstep
+    - "We get to choose the rules. Not them!"
+    - Perhaps this can be the third "My answer is..." thing?
+
+
+- Need a Google-esque name for the company (in the "goes to Plex section"??)
+  - Plex
+  - Plex Auto-motive
+    - Spin off from one of the largest tech companies of the early part of the century
+    - With their typical hubris, they had decided that they could make the whole car factory
+      and supply chain themselves better than the traditional car industry.
+      - They have a foundry and factory
+      - All almost entirely automated
+        - Sold to customers as "100% American Made" - true, as long as no-one gave too much thought to 
+          the fact that that no American worker - aside from a few geeks at their keyboards - was 
+          involved anywhere in the manufacturing process.
+          - Geeks at keyboards: increasingly few of these as AI started coming for their jobs as well.
+            - Mendoza: Served them right
+      - Hubris: but they were right
+  
